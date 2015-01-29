@@ -216,7 +216,15 @@
       <preset
             epf="presets/default/default.epf"
             id="net.jeeeyul.eclipse.themes.preset.default"
-            name="Minimalist (Default)">
+            name="Dark Atoll (Default)">
+         <description>
+            Default Preset
+         </description>
+      </preset>
+      <preset
+            epf="presets/default/Minimalist.epf"
+            id="net.jeeeyul.eclipse.themes.preset.minimalist"
+            name="Minimalist">
          <description>
             Default Preset
          </description>
